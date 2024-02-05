@@ -1,0 +1,54 @@
+.head {
+    background-color: rgb(223, 218, 221);
+    height: 280px;
+}
+
+.profile {
+    text-align: center;
+    padding: 40px 5px 40px 5px;
+}
+
+.profile > img {
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    border: 4px solid #197CB3;
+    margin-bottom: 10px;
+}
+
+.profile > h2 {
+    color: #080202;
+}
+
+.profile > P {
+    color: #68666a;
+}
+
+.fotoku {
+    height: 250px;
+}
+
+.subtitle {
+    margin: 30px 10px;
+}
+
+.diwarna {
+    background-color: #DFF2FD;
+}
+
+.row {
+    margin-left: 88px !important;
+}
+
+.ro {
+    margin-left: 20px;
+}
+
+.btn {
+    background-color: #167AB2;
+    color: #DFF2FD;
+}
+
+.backg {
+    background-color: #DFF2FD;
+}
